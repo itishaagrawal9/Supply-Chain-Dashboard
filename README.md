@@ -54,9 +54,7 @@ Analyzes revenue contribution by customers
 Tracks order and delivery trends
 Helps understand customer demand patterns
 
-⚙️ Tech Stack
-
-
+⚙️ Tech Stack:
 Power BI Desktop
 DAX (Data Analysis Expressions)
 Data Modeling (Star Schema)
