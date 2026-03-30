@@ -15,6 +15,7 @@ Which customers and channels drive the most revenue?
 
 ## Dashboard Pages
 🏠 Overview Page
+
 ![image_alt](https://github.com/itishaagrawal9/Supply-Chain-Dashboard/blob/f17d0cce5de2be9b3be26f5a17ad6a98d59ae6b7/Overview.png?raw=true)
 
 Shows overall business performance (Revenue, Profit, Orders, Shipments)
@@ -23,6 +24,7 @@ Highlights key KPIs for decision-making
 
 🏭 Supplier Page
 
+![image_alt](https://github.com/itishaagrawal9/Supply-Chain-Dashboard/blob/f17d0cce5de2be9b3be26f5a17ad6a98d59ae6b7/Supplier.png?raw=true)
 
 Tracks supplier lead time and quality score
 Compares supplier performance across regions
@@ -30,6 +32,7 @@ Helps identify reliable vs underperforming suppliers
 
 📦 Inventory & Production Page
 
+![image_alt](https://github.com/itishaagrawal9/Supply-Chain-Dashboard/blob/f17d0cce5de2be9b3be26f5a17ad6a98d59ae6b7/Inventory.png?raw=true)
 
 Monitors inventory value and safety stock levels
 Highlights defective products and production trends
@@ -37,6 +40,7 @@ Compares current stock with required stock
 
 🚚 Shipment Page
 
+![image_alt](https://github.com/itishaagrawal9/Supply-Chain-Dashboard/blob/f17d0cce5de2be9b3be26f5a17ad6a98d59ae6b7/Shipment.png?raw=true)
 
 Tracks shipment volume and delivery performance
 Identifies delays across months and carriers
@@ -44,6 +48,7 @@ Shows shipment status (Delivered, Delayed, In Transit)
 
 👥 Customer Page
 
+![image_alt](https://github.com/itishaagrawal9/Supply-Chain-Dashboard/blob/f17d0cce5de2be9b3be26f5a17ad6a98d59ae6b7/Customer.png?raw=true)
 
 Analyzes revenue contribution by customers
 Tracks order and delivery trends
