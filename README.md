@@ -16,7 +16,7 @@ Which customers and channels drive the most revenue?
 ## Dashboard Pages
 🏠 Overview Page
 
-
+![image_alt](https://github.com/itishaagrawal9/Supply-Chain-Dashboard/blob/f17d0cce5de2be9b3be26f5a17ad6a98d59ae6b7/Overview.png?raw=true)
 Shows overall business performance (Revenue, Profit, Orders, Shipments)
 Provides a quick snapshot of supply chain health
 Highlights key KPIs for decision-making
